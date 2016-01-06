@@ -1,1 +1,3 @@
 This is a file for the Git exercise in the just_git branch
+
+And this text is added by my partner
